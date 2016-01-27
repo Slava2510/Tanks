@@ -6,7 +6,7 @@
 та плагіна jQueryRotate. У грі присутній колективний режим для двох гравців за одним комп'ютером.   
 
 ###link
-http://phinandferb.hol.es/index.html
+http://phinandferb.hol.es/Tanks/index.html
 
 ###Autors
 
